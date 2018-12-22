@@ -48,7 +48,7 @@ The best way to get the volume balanced is to set each device to the _highest_ v
 **Kitchen**
 - Always on - no need to power up
 - Control the volume by touching the top of the HomePod, `+` and `-`
-- The two HomePods are linked as a stereo pair, meaning changing the volume on either will change them both
+- The two HomePods are linked as a stereo pair, meaning changing the volume level on either will change them both
 	
 **Family Room TV**
 - Turn on the TV
@@ -71,7 +71,7 @@ The best way to get the volume balanced is to set each device to the _highest_ v
 - Press button again to select _45s_
 - Move tone arm over record and lower with lever
 - Control the volume with two large silver knobs; one for the _speakers_ (on record stand shelf) and one for the _sub-woofer_ on the subwoofer itself. Use the right knob on the sub-woofer for volume as the other is a frequency crossover control. If you don’t know what that is, don’t change it. It takes a bit of patience to find a good balance between the tweeters and the woofers.
-	-  _N.B._ The turntable preamp is much louder than the streaming music preamp - so you will likely be turning volume lower
+-  _N.B._ The turntable preamp is much louder than the streaming music preamp - so you will likely be turning volume lower
 
 **Sun Room Turntable**
 - Out for repair, instructions coming soon
@@ -80,24 +80,24 @@ The best way to get the volume balanced is to set each device to the _highest_ v
 - Coming Soon (and it’s going to be complicated) ¯\_(ツ)_/¯
 
 ### Other Smart Features
-In addition to music, the **Kitchen HomePods** can play a variety of other content and perform other tasks including:
+In addition to music, the [Kitchen HomePods](#kitchen) can play a variety of other content and perform other tasks including:
 
-- **Searching By Lyrics**
->      _“Hey Siri, what’s the song that goes “I travel the world and the seven seas”_  
-- **Music by Mood**
-> 	_“Hey Siri, play something chill”_  
-- **Podcasts**
-> 	_“Hey Siri, play the latest Dax Shepard podcast”_  
+**Searching By Lyrics**
+> _“Hey Siri, what’s the song that goes “I travel the world and the seven seas”_  
+**Music by Mood**
+> _“Hey Siri, play something chill”_  
+**Podcasts**
+> _“Hey Siri, play the latest Dax Shepard podcast”_  
 
 And handle a variety of other tasks like:
-- **Texting**
-> 	_“Hey Siri, text Otto ‘I’m running late”’_  
-- **Timers**
-> 	_Hey Siri, set a 45-minute timer for lasagna_  
+**Texting**
+> _“Hey Siri, text Otto ‘I’m running late”’_  
+**Timers**
+> _Hey Siri, set a 45-minute timer for lasagna_  
 - **News**
-> 	_“Hey Siri, play NPR news”_  
+> _“Hey Siri, play NPR news”_  
 - **Smart Home Controls**
-	See the _Smart Home Controls_ section for details
+ See the [Smart Home Controls](#smart-home-controls) section for details
 
 
 ## Smart Home Controls
@@ -117,9 +117,8 @@ Since our devices are translated into the HomeKit protocol, we can use Siri to c
 **Turn accessories on or off**
 From lights to appliances, Siri can turn your HomeKit accessories on or off. 
 For Example:
-> 	_"Turn on the Back Hallway lights."_  
-or
-> 	_"Turn off the Living Room fan."_  
+> _"Turn on the Back Hallway lights."_  
+> _"Turn off the Living Room fan."_  
 
 **Adjust an accessory**
 Siri can adjust some HomeKit accessories, like lights or a thermostat.
@@ -139,25 +138,19 @@ For Example:
 **Set a scene with Siri**
 Scenes let us control multiple accessories at the same time. There are no scenes currently set up but over time we will include commands like:
 > _"Hey Siri, good night."_  
-or
 > _"Hey Siri, I'm home."_  
-or
 > _"Hey Siri, set my reading scene."_  
 
 **Check our home's status**
 In bed and want to know if we left the lights on downstairs? Siri knows:
 > _"Did I leave the lights on downstairs?"_  
-or
 > _"Is my garage door open?"_  
-or
 > _"What's the Bedroom thermostat set to?"_  
 
 **Control our accessories remotely**
 We can ask Siri to control our home when away. 
 > _"Turn off the lights in our Vermont house."_  
-or
 > _"Turn on the fan in the Family room."_  
-or
 > _"Set the Vermont house to 72 degrees."_  
 
 ### Ring Doorbell and apps

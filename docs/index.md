@@ -82,17 +82,17 @@ The best way to get the volume balanced is to set each device to the _highest_ v
 In addition to music, the [Kitchen HomePods](#kitchen) can play a variety of other content and perform other tasks including:
 
 **Searching By Lyrics**
-> _“Hey Siri, what’s the song that goes “I travel the world and the seven seas”_ 
+> _“Hey Siri, what’s the song that goes “I travel the world and the seven seas”_
 
 **Music by Mood**
-> _“Hey Siri, play something chill”_ 
+> _“Hey Siri, play something chill”_
 
 **Podcasts**
 > _“Hey Siri, play the latest Dax Shepard podcast”_
 
 And handle a variety of other tasks like:
 **Texting**
-> _“Hey Siri, text Otto ‘I’m running late”’_ 
+> _“Hey Siri, text Otto ‘I’m running late”’_
 
 **Timers**
 > _Hey Siri, set a 45-minute timer for lasagna_
@@ -127,34 +127,34 @@ From lights to appliances, Siri can turn your HomeKit accessories on or off. For
 **Adjust an accessory**
 Siri can adjust some HomeKit accessories, like lights or a thermostat. For Example:
 
-> _"Set the temperature in the Living Room to 68 degrees."_ 
-> _"Adjust the brightness of the Globes to 50%."_ 
-> _"Turn the living room lights all the way up."_ 
+> _"Set the temperature in the Living Room to 68 degrees."_
+> _"Adjust the brightness of the Globes to 50%."_
+> _"Turn the living room lights all the way up."_
 > _"Make the lights blue in the Family Room."_  
 
 **Control a room or zone**
 Since we organize our accessories by room, we can control areas of your house with a single command. For Example:
 
-> _"Turn off the lights downstairs."_ 
-> _"Turn on the fan in the kitchen."_ 
+> _"Turn off the lights downstairs."_
+> _"Turn on the fan in the kitchen."_
 > _"Start heating the upstairs."_  
 
 **Set a scene with Siri**
 Scenes let us control multiple accessories at the same time. There are no scenes currently set up but over time we will include commands like:
 > _"Hey Siri, good night."_
-> _"Hey Siri, I'm home."_ 
-> _"Hey Siri, set my reading scene."_ 
+> _"Hey Siri, I'm home."_
+> _"Hey Siri, set my reading scene."_
 
 **Check our home's status**
 In bed and want to know if we left the lights on downstairs? Siri knows:
-> _"Did I leave the lights on downstairs?"_ 
-> _"Is my garage door open?"_ 
+> _"Did I leave the lights on downstairs?"_
+> _"Is my garage door open?"_
 > _"What's the Bedroom thermostat set to?"_  
 
 **Control our accessories remotely**
 We can ask Siri to control our home when away. For Example
-> _"Turn off the lights in our Vermont house."_ 
-> _"Turn on the fan in the Family room."_ 
+> _"Turn off the lights in our Vermont house."_
+> _"Turn on the fan in the Family room."_
 > _"Set the Vermont house to 72 degrees."_  
 
 ### Ring Doorbell and apps

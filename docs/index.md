@@ -8,6 +8,8 @@ ONLINE EDITION
 
 ## PLAYING MUSIC
 
+- - - -
+
 ### Play Music on Kitchen HomePods
 The easiest way to play music in the kitchen is to ask Siri. While Siri can play music by artist, song, or album, she is most likely to understand you if you ask in the format _Album Title_ by _Artist Name_ or _Mix_ by _Artist or Style_.
 
@@ -106,6 +108,7 @@ See the [Smart Home Controls](#smart-home-controls) section for details
 
 ## SMART HOME CONTROLS
 
+- - - -
 
 ### Wink and Home apps
 Our smart home uses two protocols to allow control; Wink and HomeKit by Apple. Protocol is just a fancy way to say the language the devices use to communicate.  Any lightbulb, lock, thermostat, etc... gets connected to the Wink Hub (in internet closet shelf) and it makes it available for control in the wink app. Additionally, i have a little piece of software running (on the NAS server) that translates the protocols into Apple’s language so we can also use the Home app and Siri to control the smart devices. Because not everything can be perfectly translated, there are some devices in Wink that do not show up in the Home app.
@@ -175,6 +178,7 @@ Our front doorbell (and back door later in the new year) is equipped with a vide
 
 ## NAS FILE SERVER
 
+- - - -
 
 ### Accessing files from a Computer
 To get or save files from our Network-attached storage drive (NAS) when you are _in our home_ follow these steps:

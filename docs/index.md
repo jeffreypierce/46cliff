@@ -67,9 +67,9 @@ The best way to get the volume balanced is to set each device to the _highest_ v
 - Turn knob on black input selector (on record stand shelf) to `TT` (for turntable)
 - Put a record on the platter
 - Hold down the button on record player until the light by _33_ stops flashing.
-- Press button again to select _45s_
+- Press button again to select _45_ for singles and hifi recordings
 - Move tone arm over record and lower with lever
-- Control the volume with two large silver knobs; one for the _speakers_ (on record stand shelf) and one for the _sub-woofer_ on the subwoofer itself. Use the right knob on the sub-woofer for volume as the other is a frequency crossover control. If you don’t know what that is, don’t change it. It takes a bit of patience to find a good balance between the tweeters and the woofers.
+- Control the volume with two large silver knobs; one for the _speakers_ (on record stand shelf) and one for the _subwoofer_ on the subwoofer itself. Use the right knob on the subwoofer for volume as the other is a frequency crossover control. If you don’t know what that is, don’t change it. It takes a bit of patience to find a good balance between the tweeters and the woofers.
 -  _N.B._ The turntable preamp is much louder than the streaming music preamp - so you will likely be turning volume lower
 
 **Sun Room Turntable**
@@ -79,7 +79,7 @@ The best way to get the volume balanced is to set each device to the _highest_ v
 - Coming Soon (and it’s going to be complicated) `¯\_(ツ)_/¯`
 
 ### Other Smart Features
-In addition to music, the [Kitchen HomePods](#kitchen) can play a variety of other content and perform other tasks including:
+In addition to music, the Kitchen HomePods can play a variety of other content and perform other tasks including:
 
 **Searching By Lyrics**
 > _“Hey Siri, what’s the song that goes “I travel the world and the seven seas”_
@@ -121,7 +121,7 @@ Since our devices are translated into the HomeKit protocol, we can use Siri to c
 **Turn accessories on or off**
 From lights to appliances, Siri can turn your HomeKit accessories on or off. For Example:
 
-> _"Turn on the Back Hallway lights."_  
+> _"Turn on the Back Hallway lights."_
 > _"Turn off the Living Room fan."_  
 
 **Adjust an accessory**
@@ -155,7 +155,7 @@ In bed and want to know if we left the lights on downstairs? Siri knows:
 We can ask Siri to control our home when away. For Example
 > _"Turn off the lights in our Vermont house."_
 > _"Turn on the fan in the Family room."_
-> _"Set the Vermont house to 72 degrees."_  
+> _"Set the Vermont house to 72 degrees."_   
 
 ### Ring Doorbell and apps
 Our front doorbell (and back door later in the new year) is equipped with a video camera and motion detector.  While the Wink app can access its functionality, because of the complexity of video streaming, it is best to use the native Ring app. That said, you can still use triggers from the doorbell (motion sensing, rings) to control other connected devices.

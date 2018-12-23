@@ -6,6 +6,8 @@ ONLINE EDITION
 2. [Smart Home Controls](#smart-home-controls)
 3. [NAS File Server](#nas-file-server)
 
+- - - -
+
 ## PLAYING MUSIC
 
 - - - -
@@ -105,6 +107,7 @@ And handle a variety of other tasks like:
 **Smart Home Controls**
 See the [Smart Home Controls](#smart-home-controls) section for details
 
+- - - -
 
 ## SMART HOME CONTROLS
 
@@ -175,6 +178,7 @@ We can ask Siri to control our home when away. For Example
 ### Ring Doorbell and apps
 Our front doorbell (and back door later in the new year) is equipped with a video camera and motion detector.  While the Wink app can access its functionality, because of the complexity of video streaming, it is best to use the native Ring app. That said, you can still use triggers from the doorbell (motion sensing, rings) to control other connected devices.
 
+- - - -
 
 ## NAS FILE SERVER
 
@@ -198,5 +202,7 @@ To access file when you are _away from home_:
 - Ensure you have the DS File app from Synology on your phone and set up correctly. Your phone's photos should automatically backup off your device whenever you are home.
 
 - - - -
-v0.1.0 - initial version, Christmas 2018
-v0.8.0 - layout corrections
+
+- **v1.0.0 - Christmas Eve, 2018**
+- v0.8.0 - layout corrections
+- v0.1.0 - initial version
